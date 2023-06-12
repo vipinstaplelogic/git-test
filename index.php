@@ -9,3 +9,4 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+This is master-test
